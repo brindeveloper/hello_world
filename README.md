@@ -9,3 +9,5 @@ the demonstration mainly focuses on git and github pull and push requests
 This repository is built step by step in the tutorial.
 
 it now includes steps towards the github pages
+
+almsot completed as of now
